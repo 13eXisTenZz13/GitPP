@@ -1,6 +1,6 @@
 package GitTest;
 
-public class GitTest {
+public class GitFirst {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
